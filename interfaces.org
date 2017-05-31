@@ -1,0 +1,30 @@
+* Interfaces 
+** Tipos
+*** Persona 
+*** Institución
+**** pública
+**** privada
+***** sin ánimo de lucro
+***** sociedad anónima con ánimo de lucro
+*** Moneda
+**** oficial
+**** anónima
+** Operaciones
+*** + suma
+*** - resta
+*** / división
+*** * multiplicación
+*** <> negociación 
+    Establece las valoraciones para lograr una transacción
+    Parámetros: 
+**** .transaccion (bool) - verdadero (TRUE) cuando se valora más lo que se recibe que lo que se entrega.
+**** .argumento  (string) - justificación que pretende demostrar el valor 
+** Estructuras de control
+*** condicionales
+*** aproximaciones
+*** transacción
+    
+** Funciones
+*** documenta(abstract, string, timestamp, blame)
+    
+    
