@@ -30,8 +30,8 @@
 #endif
 
 
-const String SENSOR_ID = "volker0023"; // change this with your sensor ID
-//esta es la id de tu sensor cambiala
+const String SENSOR_ID = "aqakit3"; // change this with your sensor ID
+
 
 const String STR_COMMA = ",";
 const String STR_SLASH = "/";
